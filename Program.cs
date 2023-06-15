@@ -7,7 +7,7 @@ ImagesClient imagesClient = ImagesClient.Create();
 // List machine types
 var machineTypesList = machineTypesClient.List(new ListMachineTypesRequest
 {
-    Project = "focus-cache-387205",
+    Project = "XXXXXXXXXXX",
     Zone = "europe-southwest1-a"
 });
 
